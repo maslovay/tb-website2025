@@ -292,7 +292,7 @@ async function changeLanguage(lang) {
 }
 
 window.addEventListener('DOMContentLoaded', async () => {
-    const userPreferredLanguage = localStorage.getItem('language') || 'en';
+    const userPreferredLanguage = localStorage.getItem('language') || 'ru';
     const langData = userPreferredLanguage == 'en' ? en : ru;
     updateContent(langData);
 });
