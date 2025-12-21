@@ -1,7 +1,7 @@
 const en = {
     "lng": "EN",
     pageServices: "Services",
-    pageGoods: "Products",
+    pageGoods: "3D printing",
     pageEquipment: "Equipment",
     pageShop: "Shop",
     pageModeling: "Furniture designer",
@@ -22,7 +22,7 @@ const en = {
     mainSubTitle1: "We involve residents in separate collection with the help of a super application, collect recyclable materials in innovative reverse vending machines and print goods from recyclable materials with the help of our large-format 3D printers",
     
     mainTitle2: "We create innovations in the field of ecology",
-    mainSubTitle2: "For more than 5 years, we have been helping residents and businesses become part of the circular economy. We develop software in the field of waste management, design and manufacture large-format 3D printers, CNC machines and other equipment for recycling recyclable materials. Our reverse vending machines accept waste from the population for a fee using a unique technology.",
+    mainSubTitle2: "For more than 6 years, we have been helping residents and businesses become part of the circular economy. We develop software in the field of waste management, design and manufacture large-format 3D printers, CNC machines and other equipment for recycling recyclable materials. Our reverse vending machines accept waste from the population for a fee using a unique technology.",
     
     mainTitle3: "We return recyclable materials to the economy",
     mainSubTitle3: "We print furniture, lighting, interior items, decor and outdoor solutions from recyclable materials. This allows us to reduce the amount of waste that goes to landfills and give recyclable materials a second life. You can buy both finished products printed on our 3D printer and order individual printing on our website. We also offer 3D printing services for businesses and individuals.",
@@ -130,7 +130,7 @@ c3DSubTitle4: "Large-format 3D printers allow you to implement the most daring i
 const ru = {
     lng: "RU",
     pageServices: "Сервисы",
-    pageGoods: "Изделия",
+    pageGoods: "3D печать",
     pageEquipment: "Оборудование",
     pageShop: "Магазин",
     pageModeling: "Конструктор мебели",
@@ -151,7 +151,7 @@ const ru = {
     mainSubTitle1: "Вовлекаем жителей в раздельный сбор с помощью суперприложения, собираем вторсырье в инновационные фандоматы и печатаем товары из вторсырья с помощью наших крупноформатных 3D принтеров",
 
     mainTitle2: "Cоздаем инновации в области экологии",
-    mainSubTitle2: "Более 5 лет мы помогаем жителям и бизнесу стать частью цикличной экономики. Мы разрабатываем программное обеспечение в области управления отходами, проектируем и производим крупноформатные 3D принтеры, ЧПУ станки и другое оборудование для переработки вторсырья. Наши пункты фандоматы принимают отходы у населения за вознаграждение по уникальной технологии.",
+    mainSubTitle2: "Более 6 лет мы помогаем жителям и бизнесу стать частью цикличной экономики. Мы разрабатываем программное обеспечение в области управления отходами, проектируем и производим крупноформатные 3D принтеры, ЧПУ станки и другое оборудование для переработки вторсырья. Наши пункты фандоматы принимают отходы у населения за вознаграждение по уникальной технологии.",
    
     mainTitle3: "Возвращаем вторсырье в экономику",
     mainSubTitle3: "Мы печатаем мебель, освещение, предметы интерьера, декор и уличные решения из вторсырья. Это позвляет сократить количество отходов, которые отправляются на полигоны и подарить вторсырью вторую жизнь. Вы можете купить как готовые изделия, напечатанные на нашем 3D принтере, так и заказать индивидуальную печать на нашем сайте. Мы также предлагаем услуги по 3D печати для бизнеса и частных лиц.",
